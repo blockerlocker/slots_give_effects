@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "description": "Each inventory slot gives a potion effect.",
+    "min_format": 126,
+    "max_format": 126
+  }
+}
